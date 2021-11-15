@@ -38,7 +38,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/D-Blog.git
+  https://github.com/TheCaffeine/D-blog-.git
   ```
 2. Move to the folder and install requirements
   ```bash
